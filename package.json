@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-vitest-ts",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "vitest",
+    "typescript"
+  ],
+  "description": "The base Vitest and TypeScript template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gsaandy/cra-template-vitest-ts.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/gsaandy/cra-template-vitest-ts/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
